@@ -27,7 +27,7 @@
     "line-by-line": "^0.1.6",
     "line-reader": "^0.4.0",
     "method-override": "^3.0.0",
-    "mongoose": "^5.4.13",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "node-fetch": "^2.3.0",
     "nthline": "^1.0.1",
